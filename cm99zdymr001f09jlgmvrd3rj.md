@@ -3,6 +3,7 @@ title: "A Lighthearted Dive into HashiCorp's Vault"
 datePublished: Wed Apr 09 2025 13:44:44 GMT+0000 (Coordinated Universal Time)
 cuid: cm99zdymr001f09jlgmvrd3rj
 slug: a-lighthearted-dive-into-hashicorps-vault
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1744207059108/3cc7f607-c9be-431e-ae1a-888762e152b8.png
 tags: security, devops, devrel, hashicorp
 
 ---
